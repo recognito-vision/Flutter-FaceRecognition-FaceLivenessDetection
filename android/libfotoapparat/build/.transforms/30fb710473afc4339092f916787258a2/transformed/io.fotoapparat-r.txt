@@ -1,0 +1,6 @@
+io.fotoapparat
+animator focus_inner
+animator focus_outer
+dimen focus_diameter
+drawable focus_inner
+drawable focus_outer

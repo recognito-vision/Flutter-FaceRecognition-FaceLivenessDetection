@@ -1,0 +1,5 @@
+int animator focus_inner 0x7f020001
+int animator focus_outer 0x7f020002
+int dimen focus_diameter 0x7f070001
+int drawable focus_inner 0x7f080001
+int drawable focus_outer 0x7f080002
